@@ -41,3 +41,6 @@ footer {
     margin: 10px;
     font-family: 'Roboto Light 300', sans-serif;
 }
+body ul{
+    list-style-type:none;
+}
